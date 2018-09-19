@@ -14,4 +14,4 @@
 
 ## platoon
 
-- [test](platoon/test)
+- [iOS-stage](platoon/iOS-stage.md)
