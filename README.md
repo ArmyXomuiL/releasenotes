@@ -15,4 +15,5 @@
 ## platoon
 
 - [iOS-stage](platoon/iOS-stage.md)
+- [Android](platoon/android.md)
 dd
