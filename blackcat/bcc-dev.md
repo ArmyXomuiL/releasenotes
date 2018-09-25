@@ -43,7 +43,7 @@
 - [FIN-128](https://ronteltd.atlassian.net/browse/FIN-128) Fixed UI issue on PageTransferToContact page.
 - [FIN-73](https://ronteltd.atlassian.net/browse/FIN-73) Fixed UI and spelling issue on PageHome page.
 
-## release 0.5.137 - 25.09.2018 Tuesday
+## release 0.5.401 - 25.09.2018 Tuesday
 
 - [FIN-1622](https://ronteltd.atlassian.net/browse/FIN-1622) Fixed localization issue on home page.
 - [FIN-1610](https://ronteltd.atlassian.net/browse/FIN-1610) Fixed selfie issue on id scan.
