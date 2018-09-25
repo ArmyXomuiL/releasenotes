@@ -42,3 +42,27 @@
 - [FIN-191](https://ronteltd.atlassian.net/browse/FIN-191) Fixed validation on PageTransferToCard page.
 - [FIN-128](https://ronteltd.atlassian.net/browse/FIN-128) Fixed UI issue on PageTransferToContact page.
 - [FIN-73](https://ronteltd.atlassian.net/browse/FIN-73) Fixed UI and spelling issue on PageHome page.
+
+## release 0.5.137 - 25.09.2018 Tuesday
+
+- [FIN-1622](https://ronteltd.atlassian.net/browse/FIN-1622) Fixed localization issue on home page.
+- [FIN-1610](https://ronteltd.atlassian.net/browse/FIN-1610) Fixed selfie issue on id scan.
+- [FIN-1608](https://ronteltd.atlassian.net/browse/FIN-1608) Implement PageBankOfferInterestRate card with newsBanner.
+- [FIN-1577](https://ronteltd.atlassian.net/browse/FIN-1577) Added the valid date of the card on the Page Home.
+- [FIN-1511](https://ronteltd.atlassian.net/browse/FIN-1511) Fixed validation issue on Page Transfer Bank page.
+- [FIN-1503](https://ronteltd.atlassian.net/browse/FIN-1503) Implement PageBankOfferInterestRate card with newsBanner.
+- [FIN-1484](https://ronteltd.atlassian.net/browse/FIN-1484) Fixed validation issue on Card Number.
+- [FIN-1483](https://ronteltd.atlassian.net/browse/FIN-1483) Fixed validation issue on Amount.
+- [FIN-1481](https://ronteltd.atlassian.net/browse/FIN-1481) Fixed UI issue on Card page.
+- [FIN-1474](https://ronteltd.atlassian.net/browse/FIN-1474) Added the valid date of the card on the Page Card.
+- [FIN-1468](https://ronteltd.atlassian.net/browse/FIN-1468) Fixed flow on page Top up the account page.
+- [FIN-1462](https://ronteltd.atlassian.net/browse/FIN-1462) Description field validation fixed.
+- [FIN-1381](https://ronteltd.atlassian.net/browse/FIN-1381) UI fixes on Transfer to contact page.
+- [FIN-1370](https://ronteltd.atlassian.net/browse/FIN-1370) Spelling issue fixed on TransferToBank page.
+- [FIN-1258](https://ronteltd.atlassian.net/browse/FIN-1258) Multiple Russion Localization fixes.
+- [FIN-1249](https://ronteltd.atlassian.net/browse/FIN-1249) Added way to use uas phone numbers.
+- [FIN-1241](https://ronteltd.atlassian.net/browse/FIN-1241) UI fixes on PageTemplateTransferToCard.
+- [FIN-1178](https://ronteltd.atlassian.net/browse/FIN-1178) Added app version in WEB.
+- [FIN-736](https://ronteltd.atlassian.net/browse/FIN-736) UI fixes for Day/ Month Limits.
+- [FIN-708](https://ronteltd.atlassian.net/browse/FIN-708) Added displaying of first 6 digits on the additional card order screen.
+
