@@ -66,3 +66,28 @@
 - [FIN-736](https://ronteltd.atlassian.net/browse/FIN-736) UI fixes for Day/ Month Limits.
 - [FIN-708](https://ronteltd.atlassian.net/browse/FIN-708) Added displaying of first 6 digits on the additional card order screen.
 
+## release 0.5.402 - 27.09.2018 Thursday
+
+- [FIN-1667](https://ronteltd.atlassian.net/browse/FIN-1667) UI fix on Cards page.
+- [FIN-1650](https://ronteltd.atlassian.net/browse/FIN-1650) Balance fix for Account page.
+- [FIN-1645](https://ronteltd.atlassian.net/browse/FIN-1645) Fixed sign in for real phone numbers.
+- [FIN-1613](https://ronteltd.atlassian.net/browse/FIN-1613) UI fixes on PageHome and PageCard.
+- [FIN-1611](https://ronteltd.atlassian.net/browse/FIN-1611) Fix for all numbers, thousands are separated by a space.
+- [FIN-1603](https://ronteltd.atlassian.net/browse/FIN-1603) Added and fixed all cat animations.
+- [FIN-1582](https://ronteltd.atlassian.net/browse/FIN-1582) Validation fix for transfer amount field.
+- [FIN-1484](https://ronteltd.atlassian.net/browse/FIN-1484) Max amount of sybbols fixed for Card Number field.
+- [FIN-1483](https://ronteltd.atlassian.net/browse/FIN-1483) Fixed Min amount for transfer amount field.
+- [FIN-1482](https://ronteltd.atlassian.net/browse/FIN-1482) Validation fixed for transfer amount field.
+- [FIN-1382](https://ronteltd.atlassian.net/browse/FIN-1382) Fixed PageRegistrationAddInformation which opens after clicking on sms.
+- [FIN-1261](https://ronteltd.atlassian.net/browse/FIN-1261) Hide touch_id when the phone doesnt support it.
+- [FIN-1228](https://ronteltd.atlassian.net/browse/FIN-1228) UI fix for IBAN field.
+- [FIN-1145](https://ronteltd.atlassian.net/browse/FIN-1145) IDScan implementation.
+- [FIN-1071](https://ronteltd.atlassian.net/browse/FIN-1071) UI fixes for Templates Page.
+- [FIN-856](https://ronteltd.atlassian.net/browse/FIN-856) PUSH-notifications about replenishment of a bank account implementation.
+- [FIN-817](https://ronteltd.atlassian.net/browse/FIN-817) Order Additional cards screens implementation for Iphone X.
+- [FIN-755](https://ronteltd.atlassian.net/browse/FIN-755) UI and spelling issues fixed on PageRegistration .
+- [FIN-219](https://ronteltd.atlassian.net/browse/FIN-219) API implementation for the application.
+- [FIN-133](https://ronteltd.atlassian.net/browse/FIN-133) UI fixes on PageTransactionReceipt.
+- [FIN-125](https://ronteltd.atlassian.net/browse/FIN-125) UI fixes on PageTransferBank.
+- [FIN-123](https://ronteltd.atlassian.net/browse/FIN-123) UI fixes on PageTransferToCard.
+- [FIN-118](https://ronteltd.atlassian.net/browse/FIN-118) Automatic data update on home page.
