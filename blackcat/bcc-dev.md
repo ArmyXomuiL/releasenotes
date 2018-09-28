@@ -91,3 +91,29 @@
 - [FIN-125](https://ronteltd.atlassian.net/browse/FIN-125) UI fixes on PageTransferBank.
 - [FIN-123](https://ronteltd.atlassian.net/browse/FIN-123) UI fixes on PageTransferToCard.
 - [FIN-118](https://ronteltd.atlassian.net/browse/FIN-118) Automatic data update on home page.
+
+## release 0.5.404 - 28.09.2018 Friday
+- UI fix on PersonalInfo page.
+- UI fix on Transaction page.
+- [FIN-1683](https://ronteltd.atlassian.net/browse/FIN-1683) UI fix on popups.
+- [FIN-1644](https://ronteltd.atlassian.net/browseFIN-1644) UI fixes on TransactionBill page.
+- [FIN-1638](https://ronteltd.atlassian.net/browseFIN-1638) Added "Select the contact" panel on TransferToContact page.
+- [FIN-1634](https://ronteltd.atlassian.net/browseFIN-1634) Added cache functionality history transaction for on account page.
+- [FIN-1626](https://ronteltd.atlassian.net/browseFIN-1626) UI fixes on Account page.
+- [FIN-1619](https://ronteltd.atlassian.net/browseFIN-1619) Change flow of TransferToContact functionality.
+- [FIN-1609](https://ronteltd.atlassian.net/browseFIN-1609) UI fixes on HomeBlockedCard page.
+- [FIN-1462](https://ronteltd.atlassian.net/browseFIN-1462) Fixed description validation issue on Transfer details.
+- [FIN-1355](https://ronteltd.atlassian.net/browseFIN-1355) Fixed navigation panel issue.
+- [FIN-1178](https://ronteltd.atlassian.net/browseFIN-1178) Added web version.
+- [FIN-1071](https://ronteltd.atlassian.net/browseFIN-1071) UI fixes on Templates page.
+- [FIN-1067](https://ronteltd.atlassian.net/browseFIN-1067) UI fixes on TemplateTransferToCard (edit) page.
+- [FIN-897](https://ronteltd.atlassian.net/browseFIN-897)  Fixes on HomeFamilyCard page.
+- [FIN-813](https://ronteltd.atlassian.net/browseFIN-813)  Fixed validation on order cards screen.
+- [FIN-624](https://ronteltd.atlassian.net/browseFIN-624)  Fixes on Home Additional Card Page.
+- [FIN-623](https://ronteltd.atlassian.net/browseFIN-623)  Fixes on Home Family Card Page.
+- [FIN-622](https://ronteltd.atlassian.net/browseFIN-622)  Fixes on Home Kids Card Page.
+- [FIN-441](https://ronteltd.atlassian.net/browseFIN-441)  UI fixes on operation confirmation code screen.
+- [FIN-286](https://ronteltd.atlassian.net/browseFIN-286)  Fixed issue on PageEnter screen.
+- [FIN-136](https://ronteltd.atlassian.net/browseFIN-136)  Fixed UI issue on PagePinEnter screen.
+- [FIN-125](https://ronteltd.atlassian.net/browseFIN-125)  Fixed UI issue on PageTransferBank screen.
+- [FIN-111](https://ronteltd.atlassian.net/browseFIN-111)  Fixed functional issue on PagePinEnter screen.
