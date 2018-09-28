@@ -66,7 +66,7 @@
 - [FIN-736](https://ronteltd.atlassian.net/browse/FIN-736) UI fixes for Day/ Month Limits.
 - [FIN-708](https://ronteltd.atlassian.net/browse/FIN-708) Added displaying of first 6 digits on the additional card order screen.
 
-## release 0.5.402 - 27.09.2018 Thursday
+## release 0.5.403 - 28.09.2018 Friday
 
 - [FIN-1667](https://ronteltd.atlassian.net/browse/FIN-1667) UI fix on Cards page.
 - [FIN-1650](https://ronteltd.atlassian.net/browse/FIN-1650) Balance fix for Account page.
